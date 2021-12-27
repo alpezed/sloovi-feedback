@@ -1,0 +1,18 @@
+{
+	"name": "sloovi-feedback",
+	"version": "1.0.5",
+	"description": "Collect issues, ideas and compliments with a simple widget. Receive them as email. Dive deep with the dashboard.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"feedback"
+	],
+	"author": "spiceblue",
+	"license": "ISC",
+	"peerDependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	}
+}
