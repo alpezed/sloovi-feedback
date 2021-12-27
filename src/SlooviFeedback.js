@@ -1,4 +1,4 @@
-import React, { isValidElement, cloneElement } from 'react';
+import { isValidElement, cloneElement } from 'react';
 
 import { useFeedbackFish } from './useSlooviFeedback';
 

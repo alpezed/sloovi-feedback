@@ -1,6 +1,6 @@
 {
 	"name": "sloovi-feedback",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "Collect issues, ideas and compliments with a simple widget. Receive them as email. Dive deep with the dashboard.",
 	"main": "index.js",
 	"scripts": {
@@ -10,6 +10,7 @@
 		"type": "git",
 		"url": "https://github.com/alpezed/sloovi-feedback.git"
 	},
+	"homepage": "https://sloovi.com/feedback/",
 	"keywords": [
 		"feedback"
 	],
